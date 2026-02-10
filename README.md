@@ -28,8 +28,8 @@ A clean and secure **backend authentication service** built with **Java Servlets
 
 ## 📁 Project Overview
 
-src/
+```src/
 ├── userConfig/ # Servlets (Login, Signup, Logout)
 ├── resources/ # persistence.xml
-└── webapp/ # JSP pages
+└── webapp/ # JSP pages```
 
